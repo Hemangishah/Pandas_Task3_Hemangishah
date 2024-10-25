@@ -1,0 +1,2 @@
+Pandas apply and groupby: apply is used to perform custom functions on DataFrame elements, while groupby helps in grouping data by categories for complex operations.
+To create a custom transformation on grouped data within a DataFrame, useful for data aggregation, transformation, and manipulation.
